@@ -3,7 +3,7 @@
     "Server": "Join the discord server: discord.gg/onlp to get the Key", 
     "LiveVersion": "9.0.1", 
     "Code":"Yes", 
-    "Script": "print('hello') input()",
+    "Script": "print('The Software Version you are using is termed, please join discord.gg/onlp and contac the Owner to get new versions'), input(), os._exit, quit()",
     "MessEnabled": "No", 
     "Message": "", 
     "Status": "Enabled", 
