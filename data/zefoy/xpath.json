@@ -1,0 +1,27 @@
+"ZefoyData": {
+  
+    "Captcha": "/html/body/div[4]/div[2]/form/div/div/img", 
+    "CaptchaInput": "/html/body/div[4]/div[2]/form/div/div/div/input", 
+    "CommentHearts": "/html/body/div[4]/div[1]/div[3]/div/div[3]/div/button", 
+    "CommentHeartsConfirm": "/html/body/div[4]/div[4]/div/div/div[1]/div/form/button", 
+    "CommentHeartsInput": "/html/body/div[4]/div[4]/div/form/div/input", 
+    "FollowersTimer": "/html/body/div[4]/div[2]/div/div/h4", 
+    "Follows": "/html/body/div[4]/div[1]/div[3]/div/div[1]/div/button", 
+    "FollowsConfirm": "/html/body/div[4]/div[2]/div/div/div[1]/div/form/button", 
+    "FollowsInput": "/html/body/div[4]/div[2]/div/form/div/input", 
+    "Hearts": "/html/body/div[4]/div[1]/div[3]/div/div[2]/div/button", 
+    "HeartsConfirm": "/html/body/div[4]/div[3]/div/div/div[1]/div/form/button", 
+    "HeartsInput": "/html/body/div[4]/div[3]/div/form/div/input", 
+    "HeartsTimer": "/html/body/div[4]/div[3]/div/div/h4", 
+    "LocateElement": "/html/body/div[4]/div[1]/div[3]/div/div[4]/div", 
+    "Shares": "/html/body/div[4]/div[1]/div[3]/div/div[5]/div/button", 
+    "SharesConfirm": "/html/body/div[4]/div[6]/div/div/div[1]/div/form/button", 
+    "SharesInput": "/html/body/div[4]/div[6]/div/form/div/input", 
+    "SharesTimer": "/html/body/div[4]/div[6]/div/div/h4", 
+    "URLFollowButton": "/html/body/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div[1]/div[2]", 
+    "Views": "/html/body/div[4]/div[1]/div[3]/div/div[4]/div/button", 
+    "ViewsConfirm": "/html/body/div[4]/div[5]/div/div/div[1]/div/form/button", 
+    "ViewsInput": "/html/body/div[4]/div[5]/div/form/div/input", 
+    "ViewsTimer": "/html/body/div[4]/div[5]/div/div/h4"
+  
+}
